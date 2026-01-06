@@ -1,0 +1,4 @@
+
+.nav-bar{background:#005f73;padding:10px}
+.nav-bar ul{display:flex;list-style:none;gap:20px}
+.nav-bar a{color:#fff;text-decoration:none}
